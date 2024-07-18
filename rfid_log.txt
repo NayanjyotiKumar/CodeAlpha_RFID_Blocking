@@ -1,0 +1,7 @@
+2024-07-18 08:17:24,442 - Unauthorized RFID scan detected: TAG699
+2024-07-18 08:17:26,443 - Unauthorized RFID scan detected: TAG999
+2024-07-18 08:17:28,445 - Unauthorized RFID scan detected: TAG999
+2024-07-18 08:17:30,446 - Unauthorized RFID scan detected: TAG999
+2024-07-18 08:17:32,448 - Unauthorized RFID scan detected: TAG888
+2024-07-18 08:17:34,449 - Unauthorized RFID scan detected: TAG888
+2024-07-18 08:17:38,452 - Unauthorized RFID scan detected: TAG999
